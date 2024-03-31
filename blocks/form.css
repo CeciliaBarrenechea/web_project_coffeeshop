@@ -6,10 +6,7 @@
   width: 100%;
   box-sizing: border-box;
 }
-.reservation__form {
-  margin-top: 80px;
-  margin-bottom: 120px;
-}
+
 .form__fieldset {
   max-width: 385px;
   width: 100%;
